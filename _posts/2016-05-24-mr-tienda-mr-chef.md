@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Mr Chef
-datePublished: '2016-05-24T18:41:38.159Z'
-dateModified: '2016-05-24T18:36:37.143Z'
+datePublished: '2016-05-24T19:01:48.075Z'
+dateModified: '2016-05-24T19:01:47.788Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-24-mr-tienda-mr-chef.md
