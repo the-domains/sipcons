@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[sipcons]]></title>
-        <description><![CDATA[sipcons]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Soluciones Integrales de Pesaje y Control, SA de CV]]></title>
+        <description><![CDATA[Soluciones Integrales de Pesaje y Control, SA de CV]]></description>
+        <link>https://thegrid.ai/sipcons/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 18:05:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 18:22:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sipcons/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91dab3e0-eea0-4a37-907d-46f5a88f771b.jpg">]]></description>
+            <link>https://thegrid.ai/sipcons/6db6fb24-0245-44ec-91cb-a9e63213fae7/index.html</link>
+            <guid isPermaLink="false">6db6fb24-0245-44ec-91cb-a9e63213fae7</guid>
+            <pubDate>Tue, 24 May 2016 18:22:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Basculas</p>]]></description>
-            <link>undefinedbasculas/index.html</link>
+            <link>https://thegrid.ai/sipcons/basculas/index.html</link>
             <guid isPermaLink="false">525fc801-02c8-44f0-836c-cbb51d4dc1ee</guid>
             <pubDate>Tue, 24 May 2016 18:05:38 GMT</pubDate>
         </item>
