@@ -4,8 +4,15 @@
         <description><![CDATA[Soluciones Integrales de Pesaje y Control, SA de CV]]></description>
         <link>https://thegrid.ai/sipcons/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 18:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2016 19:01:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sipcons/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>THIS IS A TEST OF THE EMERGENCY GRID SYSTEM.</p>]]></description>
+            <link>https://thegrid.ai/sipcons/this-is-a-test-of-the-emergency-grid-system/index.html</link>
+            <guid isPermaLink="false">759fbb8e-6dfe-4fa9-b285-82a5162f36d2</guid>
+            <pubDate>Tue, 24 May 2016 19:01:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91dab3e0-eea0-4a37-907d-46f5a88f771b.jpg">]]></description>
