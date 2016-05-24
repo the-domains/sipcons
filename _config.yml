@@ -1,6 +1,6 @@
-name: sipcons
+name: SIPCONS
 favicon: null
-layout_spectrum: 0.46922306390479207
+layout_spectrum: 0.24261
 typography_spectrum: 0.11336938361637294
 title: 'Soluciones Integrales de Pesaje y Control, SA de CV'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ffffff'
+    - '#09459b'
+    - '#7abee7'
+    - '#7295c7'
+    - '#2c60aa'
   brandStrength: 0.9656091479118913
   lightness: 0.9197966391220689
   saturation: 0.9810113180428743
